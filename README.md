@@ -20,3 +20,7 @@ This is an Android application built using Kotlin with Jetpack Compose. This app
   1. Wait for Gradle to finish syncing.
   2. Select an Emulator or a physical device.
   3. Click the Run button (green play icon).
+
+**Preview Images of App:**
+
+https://imgur.com/a/w6H9Kcs
